@@ -221,3 +221,19 @@ h1 {
 #skills{
     text-align: center;
 }
+#experience
+{
+text-align: center;
+    padding-top: 20px;
+}
+#education
+{
+text-align: center;
+    padding-top: 20px;
+}
+#certifications
+{
+text-align: center;
+    padding-top: 20px;
+}
+
